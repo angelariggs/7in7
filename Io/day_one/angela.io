@@ -7,3 +7,5 @@ angela asList println
 Angela := Object clone
 Angela laughs := method("loud and awesome" println)
 Angela laughs
+
+Angela getSlot("laughs") println
